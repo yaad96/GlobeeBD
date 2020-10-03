@@ -1,0 +1,973 @@
+[28-Jun-2020 15:58:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'globeebd_prime'@'localhost' to database 'globeebd_globeebd' in /home/globeebd/public_html/controller/DBconnection.php on line 9
+[28-Jun-2020 15:58:07 UTC] PHP Stack trace:
+[28-Jun-2020 15:58:07 UTC] PHP   1. {main}() /home/globeebd/public_html/index.php:0
+[28-Jun-2020 15:58:07 UTC] PHP   2. require_once() /home/globeebd/public_html/index.php:4
+[28-Jun-2020 15:58:07 UTC] PHP   3. mysqli->__construct() /home/globeebd/public_html/controller/DBconnection.php:9
+[28-Jun-2020 15:58:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'globeebd_prime'@'localhost' to database 'globeebd_globeebd' in /home/globeebd/public_html/controller/DBconnection.php on line 9
+[28-Jun-2020 15:58:07 UTC] PHP Stack trace:
+[28-Jun-2020 15:58:07 UTC] PHP   1. {main}() /home/globeebd/public_html/index.php:0
+[28-Jun-2020 15:58:07 UTC] PHP   2. require_once() /home/globeebd/public_html/index.php:4
+[28-Jun-2020 15:58:07 UTC] PHP   3. mysqli->__construct() /home/globeebd/public_html/controller/DBconnection.php:9
+[28-Jun-2020 16:00:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/globeebd/public_html/controller/DBconnection.php on line 9
+[28-Jun-2020 16:00:57 UTC] PHP Stack trace:
+[28-Jun-2020 16:00:57 UTC] PHP   1. {main}() /home/globeebd/public_html/index.php:0
+[28-Jun-2020 16:00:57 UTC] PHP   2. require_once() /home/globeebd/public_html/index.php:4
+[28-Jun-2020 16:00:57 UTC] PHP   3. mysqli->__construct() /home/globeebd/public_html/controller/DBconnection.php:9
+[28-Jun-2020 16:01:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/globeebd/public_html/controller/DBconnection.php on line 9
+[28-Jun-2020 16:01:04 UTC] PHP Stack trace:
+[28-Jun-2020 16:01:04 UTC] PHP   1. {main}() /home/globeebd/public_html/index.php:0
+[28-Jun-2020 16:01:04 UTC] PHP   2. require_once() /home/globeebd/public_html/index.php:4
+[28-Jun-2020 16:01:04 UTC] PHP   3. mysqli->__construct() /home/globeebd/public_html/controller/DBconnection.php:9
+[28-Jun-2020 16:01:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'globeebd_prime'@'localhost' to database 'globeebd_globeebd' in /home/globeebd/public_html/controller/DBconnection.php on line 9
+[28-Jun-2020 16:01:47 UTC] PHP Stack trace:
+[28-Jun-2020 16:01:47 UTC] PHP   1. {main}() /home/globeebd/public_html/index.php:0
+[28-Jun-2020 16:01:47 UTC] PHP   2. require_once() /home/globeebd/public_html/index.php:4
+[28-Jun-2020 16:01:47 UTC] PHP   3. mysqli->__construct() /home/globeebd/public_html/controller/DBconnection.php:9
+[28-Jun-2020 16:12:32 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 16:12:32 UTC] PHP Stack trace:
+[28-Jun-2020 16:12:32 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:12:32 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 16:12:32 UTC] PHP Stack trace:
+[28-Jun-2020 16:12:32 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:25:10 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:25:10 UTC] PHP Stack trace:
+[28-Jun-2020 16:25:10 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:25:10 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:25:10 UTC] PHP Stack trace:
+[28-Jun-2020 16:25:10 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:27:40 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:27:40 UTC] PHP Stack trace:
+[28-Jun-2020 16:27:40 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:27:40 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:27:40 UTC] PHP Stack trace:
+[28-Jun-2020 16:27:40 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:28:08 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 16:28:08 UTC] PHP Stack trace:
+[28-Jun-2020 16:28:08 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:28:08 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 16:28:08 UTC] PHP Stack trace:
+[28-Jun-2020 16:28:08 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:39:50 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:39:50 UTC] PHP Stack trace:
+[28-Jun-2020 16:39:50 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:39:50 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:39:50 UTC] PHP Stack trace:
+[28-Jun-2020 16:39:50 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:41:18 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:41:18 UTC] PHP Stack trace:
+[28-Jun-2020 16:41:18 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:41:18 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:41:18 UTC] PHP Stack trace:
+[28-Jun-2020 16:41:18 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:41:18 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:41:18 UTC] PHP Stack trace:
+[28-Jun-2020 16:41:18 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:41:18 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:41:18 UTC] PHP Stack trace:
+[28-Jun-2020 16:41:18 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:41:58 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:41:58 UTC] PHP Stack trace:
+[28-Jun-2020 16:41:58 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:41:58 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 16:41:58 UTC] PHP Stack trace:
+[28-Jun-2020 16:41:58 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 16:44:20 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 16:44:20 UTC] PHP Stack trace:
+[28-Jun-2020 16:44:20 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:44:20 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 16:44:20 UTC] PHP Stack trace:
+[28-Jun-2020 16:44:20 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:45:25 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 16:45:25 UTC] PHP Stack trace:
+[28-Jun-2020 16:45:25 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:45:25 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 16:45:25 UTC] PHP Stack trace:
+[28-Jun-2020 16:45:25 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:45:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 16:45:29 UTC] PHP Stack trace:
+[28-Jun-2020 16:45:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:45:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 16:45:29 UTC] PHP Stack trace:
+[28-Jun-2020 16:45:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:47:10 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 16:47:10 UTC] PHP Stack trace:
+[28-Jun-2020 16:47:10 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 16:47:10 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 16:47:10 UTC] PHP Stack trace:
+[28-Jun-2020 16:47:10 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:00:35 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:00:35 UTC] PHP Stack trace:
+[28-Jun-2020 17:00:35 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:00:35 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:00:35 UTC] PHP Stack trace:
+[28-Jun-2020 17:00:35 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:01:11 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 17:01:11 UTC] PHP Stack trace:
+[28-Jun-2020 17:01:11 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 17:01:11 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 17:01:11 UTC] PHP Stack trace:
+[28-Jun-2020 17:01:11 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 17:01:12 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 17:01:12 UTC] PHP Stack trace:
+[28-Jun-2020 17:01:12 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 17:01:12 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[28-Jun-2020 17:01:12 UTC] PHP Stack trace:
+[28-Jun-2020 17:01:12 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[28-Jun-2020 17:02:05 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:02:05 UTC] PHP Stack trace:
+[28-Jun-2020 17:02:05 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:02:05 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:02:05 UTC] PHP Stack trace:
+[28-Jun-2020 17:02:05 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:02:49 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:02:49 UTC] PHP Stack trace:
+[28-Jun-2020 17:02:49 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:02:49 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:02:49 UTC] PHP Stack trace:
+[28-Jun-2020 17:02:49 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:03:19 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:03:19 UTC] PHP Stack trace:
+[28-Jun-2020 17:03:19 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:03:19 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:03:19 UTC] PHP Stack trace:
+[28-Jun-2020 17:03:19 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 200
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 201
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 203
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 204
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 206
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 207
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:07:29 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:07:37 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:07:37 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:07:39 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:07:39 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 200
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 201
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 203
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 204
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 206
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 207
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:41 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:07:41 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:07:56 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:07:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:07:56 UTC] PHP Stack trace:
+[28-Jun-2020 17:07:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:18:38 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:18:38 UTC] PHP Stack trace:
+[28-Jun-2020 17:18:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:18:38 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:18:38 UTC] PHP Stack trace:
+[28-Jun-2020 17:18:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:19:02 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:19:02 UTC] PHP Stack trace:
+[28-Jun-2020 17:19:02 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:19:02 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:19:02 UTC] PHP Stack trace:
+[28-Jun-2020 17:19:02 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:20:07 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:20:07 UTC] PHP Stack trace:
+[28-Jun-2020 17:20:07 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:20:07 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:20:07 UTC] PHP Stack trace:
+[28-Jun-2020 17:20:07 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:24:18 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:24:18 UTC] PHP Stack trace:
+[28-Jun-2020 17:24:18 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:24:18 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:24:18 UTC] PHP Stack trace:
+[28-Jun-2020 17:24:18 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:29:32 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/shop.php on line 4
+[28-Jun-2020 17:29:32 UTC] PHP Stack trace:
+[28-Jun-2020 17:29:32 UTC] PHP   1. {main}() /home/globeebd/public_html/shop.php:0
+[28-Jun-2020 17:29:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.4/controller') in /home/globeebd/public_html/shop.php on line 4
+[28-Jun-2020 17:29:32 UTC] PHP Stack trace:
+[28-Jun-2020 17:29:32 UTC] PHP   1. {main}() /home/globeebd/public_html/shop.php:0
+[28-Jun-2020 17:30:10 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:30:10 UTC] PHP Stack trace:
+[28-Jun-2020 17:30:10 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:30:10 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:30:10 UTC] PHP Stack trace:
+[28-Jun-2020 17:30:10 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:30:40 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:30:40 UTC] PHP Stack trace:
+[28-Jun-2020 17:30:40 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:30:40 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:30:40 UTC] PHP Stack trace:
+[28-Jun-2020 17:30:40 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:31:42 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:31:42 UTC] PHP Stack trace:
+[28-Jun-2020 17:31:42 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:31:42 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:31:42 UTC] PHP Stack trace:
+[28-Jun-2020 17:31:42 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:32:36 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:32:36 UTC] PHP Stack trace:
+[28-Jun-2020 17:32:36 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:32:36 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:32:36 UTC] PHP Stack trace:
+[28-Jun-2020 17:32:36 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:33:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:33:17 UTC] PHP Stack trace:
+[28-Jun-2020 17:33:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:33:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:33:17 UTC] PHP Stack trace:
+[28-Jun-2020 17:33:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:47:26 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[28-Jun-2020 17:47:26 UTC] PHP Stack trace:
+[28-Jun-2020 17:47:26 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[28-Jun-2020 17:47:26 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[28-Jun-2020 17:47:26 UTC] PHP Stack trace:
+[28-Jun-2020 17:47:26 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 02:21:19 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[29-Jun-2020 02:21:19 UTC] PHP Stack trace:
+[29-Jun-2020 02:21:19 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[29-Jun-2020 02:21:19 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[29-Jun-2020 02:21:19 UTC] PHP Stack trace:
+[29-Jun-2020 02:21:19 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[29-Jun-2020 03:08:16 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 03:08:16 UTC] PHP Stack trace:
+[29-Jun-2020 03:08:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 03:08:16 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 03:08:16 UTC] PHP Stack trace:
+[29-Jun-2020 03:08:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 03:11:43 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 03:11:43 UTC] PHP Stack trace:
+[29-Jun-2020 03:11:43 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 03:11:43 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 03:11:43 UTC] PHP Stack trace:
+[29-Jun-2020 03:11:43 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 06:36:20 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[29-Jun-2020 06:36:20 UTC] PHP Stack trace:
+[29-Jun-2020 06:36:20 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[29-Jun-2020 06:36:20 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[29-Jun-2020 06:36:20 UTC] PHP Stack trace:
+[29-Jun-2020 06:36:20 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[29-Jun-2020 06:36:30 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[29-Jun-2020 06:36:30 UTC] PHP Stack trace:
+[29-Jun-2020 06:36:30 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[29-Jun-2020 06:36:30 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[29-Jun-2020 06:36:30 UTC] PHP Stack trace:
+[29-Jun-2020 06:36:30 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[29-Jun-2020 06:36:51 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 06:36:51 UTC] PHP Stack trace:
+[29-Jun-2020 06:36:51 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 06:36:51 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 06:36:51 UTC] PHP Stack trace:
+[29-Jun-2020 06:36:51 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 07:35:24 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 07:35:24 UTC] PHP Stack trace:
+[29-Jun-2020 07:35:24 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 07:35:24 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 07:35:24 UTC] PHP Stack trace:
+[29-Jun-2020 07:35:24 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 07:53:21 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 07:53:21 UTC] PHP Stack trace:
+[29-Jun-2020 07:53:21 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 07:53:21 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 07:53:21 UTC] PHP Stack trace:
+[29-Jun-2020 07:53:21 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 11:05:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 11:05:33 UTC] PHP Stack trace:
+[29-Jun-2020 11:05:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 11:05:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 11:05:33 UTC] PHP Stack trace:
+[29-Jun-2020 11:05:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 12:15:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 12:15:37 UTC] PHP Stack trace:
+[29-Jun-2020 12:15:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 12:15:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 12:15:37 UTC] PHP Stack trace:
+[29-Jun-2020 12:15:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 14:32:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 14:32:17 UTC] PHP Stack trace:
+[29-Jun-2020 14:32:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 14:32:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 14:32:17 UTC] PHP Stack trace:
+[29-Jun-2020 14:32:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 14:40:19 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 14:40:19 UTC] PHP Stack trace:
+[29-Jun-2020 14:40:19 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 14:40:19 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 14:40:19 UTC] PHP Stack trace:
+[29-Jun-2020 14:40:19 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 14:56:21 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 14:56:21 UTC] PHP Stack trace:
+[29-Jun-2020 14:56:21 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 14:56:21 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 14:56:21 UTC] PHP Stack trace:
+[29-Jun-2020 14:56:21 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 15:06:52 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 15:06:52 UTC] PHP Stack trace:
+[29-Jun-2020 15:06:52 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 15:06:52 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 15:06:52 UTC] PHP Stack trace:
+[29-Jun-2020 15:06:52 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 15:08:28 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 327
+[29-Jun-2020 15:08:28 UTC] PHP Stack trace:
+[29-Jun-2020 15:08:28 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 15:08:28 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 339
+[29-Jun-2020 15:08:28 UTC] PHP Stack trace:
+[29-Jun-2020 15:08:28 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:23:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 342
+[29-Jun-2020 17:23:50 UTC] PHP Stack trace:
+[29-Jun-2020 17:23:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:23:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 354
+[29-Jun-2020 17:23:50 UTC] PHP Stack trace:
+[29-Jun-2020 17:23:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:25:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 17:25:50 UTC] PHP Stack trace:
+[29-Jun-2020 17:25:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:25:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 17:25:50 UTC] PHP Stack trace:
+[29-Jun-2020 17:25:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:28:35 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 17:28:35 UTC] PHP Stack trace:
+[29-Jun-2020 17:28:35 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:28:35 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 17:28:35 UTC] PHP Stack trace:
+[29-Jun-2020 17:28:35 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:29:10 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 17:29:10 UTC] PHP Stack trace:
+[29-Jun-2020 17:29:10 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:29:10 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 17:29:10 UTC] PHP Stack trace:
+[29-Jun-2020 17:29:10 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:40:05 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 17:40:05 UTC] PHP Stack trace:
+[29-Jun-2020 17:40:05 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 17:40:05 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 17:40:05 UTC] PHP Stack trace:
+[29-Jun-2020 17:40:05 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:25:00 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:25:00 UTC] PHP Stack trace:
+[29-Jun-2020 18:25:00 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:25:00 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 18:25:00 UTC] PHP Stack trace:
+[29-Jun-2020 18:25:00 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:28:27 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:28:27 UTC] PHP Stack trace:
+[29-Jun-2020 18:28:27 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:28:53 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:28:53 UTC] PHP Stack trace:
+[29-Jun-2020 18:28:53 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:31:06 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:31:06 UTC] PHP Stack trace:
+[29-Jun-2020 18:31:06 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:31:38 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:31:38 UTC] PHP Stack trace:
+[29-Jun-2020 18:31:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:33:11 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:33:11 UTC] PHP Stack trace:
+[29-Jun-2020 18:33:11 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:33:11 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 18:33:11 UTC] PHP Stack trace:
+[29-Jun-2020 18:33:11 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:36:47 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 18:36:47 UTC] PHP Stack trace:
+[29-Jun-2020 18:36:47 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 18:36:47 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 18:36:47 UTC] PHP Stack trace:
+[29-Jun-2020 18:36:47 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:50:55 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 19:50:55 UTC] PHP Stack trace:
+[29-Jun-2020 19:50:55 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:50:55 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 19:50:55 UTC] PHP Stack trace:
+[29-Jun-2020 19:50:55 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:51:07 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 19:51:07 UTC] PHP Stack trace:
+[29-Jun-2020 19:51:07 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:51:07 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 19:51:07 UTC] PHP Stack trace:
+[29-Jun-2020 19:51:07 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:53:21 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 19:53:21 UTC] PHP Stack trace:
+[29-Jun-2020 19:53:21 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:53:21 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 19:53:21 UTC] PHP Stack trace:
+[29-Jun-2020 19:53:21 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:54:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 19:54:37 UTC] PHP Stack trace:
+[29-Jun-2020 19:54:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:54:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 19:54:37 UTC] PHP Stack trace:
+[29-Jun-2020 19:54:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:55:12 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[29-Jun-2020 19:55:12 UTC] PHP Stack trace:
+[29-Jun-2020 19:55:12 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[29-Jun-2020 19:55:12 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[29-Jun-2020 19:55:12 UTC] PHP Stack trace:
+[29-Jun-2020 19:55:12 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 01:48:15 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 323
+[30-Jun-2020 01:48:15 UTC] PHP Stack trace:
+[30-Jun-2020 01:48:15 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 01:48:15 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 335
+[30-Jun-2020 01:48:15 UTC] PHP Stack trace:
+[30-Jun-2020 01:48:15 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 02:47:34 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 325
+[30-Jun-2020 02:47:34 UTC] PHP Stack trace:
+[30-Jun-2020 02:47:34 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 02:47:34 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 337
+[30-Jun-2020 02:47:34 UTC] PHP Stack trace:
+[30-Jun-2020 02:47:34 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 02:58:32 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 325
+[30-Jun-2020 02:58:32 UTC] PHP Stack trace:
+[30-Jun-2020 02:58:32 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 02:58:32 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 337
+[30-Jun-2020 02:58:32 UTC] PHP Stack trace:
+[30-Jun-2020 02:58:32 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 03:06:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 325
+[30-Jun-2020 03:06:50 UTC] PHP Stack trace:
+[30-Jun-2020 03:06:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 03:06:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 337
+[30-Jun-2020 03:06:50 UTC] PHP Stack trace:
+[30-Jun-2020 03:06:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 03:20:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 325
+[30-Jun-2020 03:20:37 UTC] PHP Stack trace:
+[30-Jun-2020 03:20:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 03:20:37 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 337
+[30-Jun-2020 03:20:37 UTC] PHP Stack trace:
+[30-Jun-2020 03:20:37 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 03:30:55 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 03:30:55 UTC] PHP Stack trace:
+[30-Jun-2020 03:30:55 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 03:30:55 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 03:30:55 UTC] PHP Stack trace:
+[30-Jun-2020 03:30:55 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 04:00:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 04:00:56 UTC] PHP Stack trace:
+[30-Jun-2020 04:00:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 04:00:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 04:00:56 UTC] PHP Stack trace:
+[30-Jun-2020 04:00:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 04:13:35 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 04:13:35 UTC] PHP Stack trace:
+[30-Jun-2020 04:13:35 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 04:13:35 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 04:13:35 UTC] PHP Stack trace:
+[30-Jun-2020 04:13:35 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:47:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:47:33 UTC] PHP Stack trace:
+[30-Jun-2020 05:47:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:47:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:47:33 UTC] PHP Stack trace:
+[30-Jun-2020 05:47:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:48:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:48:33 UTC] PHP Stack trace:
+[30-Jun-2020 05:48:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:48:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:48:33 UTC] PHP Stack trace:
+[30-Jun-2020 05:48:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:49:02 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:49:02 UTC] PHP Stack trace:
+[30-Jun-2020 05:49:02 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:49:02 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:49:02 UTC] PHP Stack trace:
+[30-Jun-2020 05:49:02 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:49:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:49:33 UTC] PHP Stack trace:
+[30-Jun-2020 05:49:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:49:33 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:49:33 UTC] PHP Stack trace:
+[30-Jun-2020 05:49:33 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:57:27 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:57:27 UTC] PHP Stack trace:
+[30-Jun-2020 05:57:27 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:57:27 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:57:27 UTC] PHP Stack trace:
+[30-Jun-2020 05:57:27 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:57:40 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:57:40 UTC] PHP Stack trace:
+[30-Jun-2020 05:57:40 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:57:40 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:57:40 UTC] PHP Stack trace:
+[30-Jun-2020 05:57:40 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:57:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 05:57:50 UTC] PHP Stack trace:
+[30-Jun-2020 05:57:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 05:57:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 05:57:50 UTC] PHP Stack trace:
+[30-Jun-2020 05:57:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 06:21:51 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 06:21:51 UTC] PHP Stack trace:
+[30-Jun-2020 06:21:51 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 06:21:51 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 06:21:51 UTC] PHP Stack trace:
+[30-Jun-2020 06:21:51 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 06:31:55 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 06:31:55 UTC] PHP Stack trace:
+[30-Jun-2020 06:31:55 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 06:31:55 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 06:31:55 UTC] PHP Stack trace:
+[30-Jun-2020 06:31:55 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 07:18:48 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[30-Jun-2020 07:18:48 UTC] PHP Stack trace:
+[30-Jun-2020 07:18:48 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 07:18:48 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[30-Jun-2020 07:18:48 UTC] PHP Stack trace:
+[30-Jun-2020 07:18:48 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 07:30:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 326
+[30-Jun-2020 07:30:29 UTC] PHP Stack trace:
+[30-Jun-2020 07:30:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 07:30:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 07:30:29 UTC] PHP Stack trace:
+[30-Jun-2020 07:30:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:05:46 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:05:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:05:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:05:46 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:05:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:05:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:05:46 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:05:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:05:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:05:46 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:05:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:05:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:03 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:06:03 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:03 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:03 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:06:03 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:03 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:03 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:06:03 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:03 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:03 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:06:03 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:03 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:06:29 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:29 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:06:29 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:06:29 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:06:29 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:06:29 UTC] PHP Stack trace:
+[30-Jun-2020 12:06:29 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:38 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:11:38 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:38 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:11:38 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:38 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:11:38 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:38 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:11:38 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:38 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:11:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:39 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:11:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:11:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:11:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:45 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:11:45 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:45 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:11:45 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:45 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:11:45 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:11:45 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:11:45 UTC] PHP Stack trace:
+[30-Jun-2020 12:11:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:12:17 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:17 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:12:17 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:12:17 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:17 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:12:17 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:17 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:26 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:12:26 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:26 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:26 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:12:26 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:26 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:26 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:12:26 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:26 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:26 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:12:26 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:26 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:31 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:12:31 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:31 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:31 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:12:31 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:31 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:31 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:12:31 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:31 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:31 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:12:31 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:31 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:36 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:12:36 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:36 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:36 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:12:36 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:36 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:36 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:12:36 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:36 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:36 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:12:36 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:36 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:12:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:39 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:12:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:12:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:39 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:12:39 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:39 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:12:56 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:56 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:12:56 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:12:56 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:12:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:12:56 UTC] PHP Stack trace:
+[30-Jun-2020 12:12:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:13:01 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:13:01 UTC] PHP Stack trace:
+[30-Jun-2020 12:13:01 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:13:01 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:13:01 UTC] PHP Stack trace:
+[30-Jun-2020 12:13:01 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:13:01 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:13:01 UTC] PHP Stack trace:
+[30-Jun-2020 12:13:01 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:13:01 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:13:01 UTC] PHP Stack trace:
+[30-Jun-2020 12:13:01 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:17:59 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:17:59 UTC] PHP Stack trace:
+[30-Jun-2020 12:17:59 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:17:59 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:17:59 UTC] PHP Stack trace:
+[30-Jun-2020 12:17:59 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:17:59 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:17:59 UTC] PHP Stack trace:
+[30-Jun-2020 12:17:59 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:17:59 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:17:59 UTC] PHP Stack trace:
+[30-Jun-2020 12:17:59 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:41 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:20:41 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:41 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:20:41 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:41 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:20:41 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:41 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:20:41 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:41 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:20:50 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:50 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:20:50 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:20:50 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:20:50 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:20:50 UTC] PHP Stack trace:
+[30-Jun-2020 12:20:50 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:22:46 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:22:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:22:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:22:46 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:22:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:22:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:22:46 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:22:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:22:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:22:46 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:22:46 UTC] PHP Stack trace:
+[30-Jun-2020 12:22:46 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:23:22 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 12:23:22 UTC] PHP Stack trace:
+[30-Jun-2020 12:23:22 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:23:22 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 12:23:22 UTC] PHP Stack trace:
+[30-Jun-2020 12:23:22 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:23:22 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 12:23:22 UTC] PHP Stack trace:
+[30-Jun-2020 12:23:22 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:23:22 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 12:23:22 UTC] PHP Stack trace:
+[30-Jun-2020 12:23:22 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 12:30:32 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 185
+[30-Jun-2020 12:30:32 UTC] PHP Stack trace:
+[30-Jun-2020 12:30:32 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:30:32 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 185
+[30-Jun-2020 12:30:32 UTC] PHP Stack trace:
+[30-Jun-2020 12:30:32 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:35:35 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 186
+[30-Jun-2020 12:35:35 UTC] PHP Stack trace:
+[30-Jun-2020 12:35:35 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:35:35 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 186
+[30-Jun-2020 12:35:35 UTC] PHP Stack trace:
+[30-Jun-2020 12:35:35 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:36:07 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 186
+[30-Jun-2020 12:36:07 UTC] PHP Stack trace:
+[30-Jun-2020 12:36:07 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:36:07 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 186
+[30-Jun-2020 12:36:07 UTC] PHP Stack trace:
+[30-Jun-2020 12:36:07 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:36:15 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 186
+[30-Jun-2020 12:36:15 UTC] PHP Stack trace:
+[30-Jun-2020 12:36:15 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 12:36:15 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 186
+[30-Jun-2020 12:36:15 UTC] PHP Stack trace:
+[30-Jun-2020 12:36:15 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:38:27 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:38:27 UTC] PHP Stack trace:
+[30-Jun-2020 13:38:27 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:38:27 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:38:27 UTC] PHP Stack trace:
+[30-Jun-2020 13:38:27 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:38:38 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:38:38 UTC] PHP Stack trace:
+[30-Jun-2020 13:38:38 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:38:38 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:38:38 UTC] PHP Stack trace:
+[30-Jun-2020 13:38:38 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:40:34 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 13:40:34 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:34 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:34 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 13:40:34 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:34 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:34 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 13:40:34 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:34 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:34 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 13:40:34 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:34 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:43 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 13:40:43 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:43 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:43 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 13:40:43 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:43 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:43 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 13:40:43 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:43 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:43 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 13:40:43 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:43 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 13:40:56 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:56 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 13:40:56 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 13:40:56 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:40:56 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 13:40:56 UTC] PHP Stack trace:
+[30-Jun-2020 13:40:56 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:43:23 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:43:23 UTC] PHP Stack trace:
+[30-Jun-2020 13:43:23 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:43:23 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:43:23 UTC] PHP Stack trace:
+[30-Jun-2020 13:43:23 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:43:23 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:43:23 UTC] PHP Stack trace:
+[30-Jun-2020 13:43:23 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:43:23 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:43:23 UTC] PHP Stack trace:
+[30-Jun-2020 13:43:23 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 215
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 216
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 218
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 219
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 221
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 222
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:16 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 13:48:16 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:16 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:48:30 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:48:30 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:30 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:48:30 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:48:30 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:30 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:48:30 UTC] PHP Notice:  Use of undefined constant number - assumed 'number' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:48:30 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:30 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:48:30 UTC] PHP Notice:  Use of undefined constant cname - assumed 'cname' in /home/globeebd/public_html/secretpage.php on line 187
+[30-Jun-2020 13:48:30 UTC] PHP Stack trace:
+[30-Jun-2020 13:48:30 UTC] PHP   1. {main}() /home/globeebd/public_html/secretpage.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 215
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 0 in /home/globeebd/public_html/product.php on line 216
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 218
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 1 in /home/globeebd/public_html/product.php on line 219
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 221
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 2 in /home/globeebd/public_html/product.php on line 222
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 328
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 4 in /home/globeebd/public_html/product.php on line 338
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 340
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[30-Jun-2020 13:50:45 UTC] PHP Notice:  Undefined offset: 3 in /home/globeebd/public_html/product.php on line 351
+[30-Jun-2020 13:50:45 UTC] PHP Stack trace:
+[30-Jun-2020 13:50:45 UTC] PHP   1. {main}() /home/globeebd/public_html/product.php:0
+[01-Jul-2020 02:33:41 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/secretindex.php on line 5
+[01-Jul-2020 02:33:41 UTC] PHP Stack trace:
+[01-Jul-2020 02:33:41 UTC] PHP   1. {main}() /home/globeebd/public_html/secretindex.php:0
+[01-Jul-2020 02:33:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/secretindex.php on line 5
+[01-Jul-2020 02:33:41 UTC] PHP Stack trace:
+[01-Jul-2020 02:33:41 UTC] PHP   1. {main}() /home/globeebd/public_html/secretindex.php:0
+[01-Jul-2020 02:33:46 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/secretindex.php on line 5
+[01-Jul-2020 02:33:46 UTC] PHP Stack trace:
+[01-Jul-2020 02:33:46 UTC] PHP   1. {main}() /home/globeebd/public_html/secretindex.php:0
+[01-Jul-2020 02:33:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/secretindex.php on line 5
+[01-Jul-2020 02:33:46 UTC] PHP Stack trace:
+[01-Jul-2020 02:33:46 UTC] PHP   1. {main}() /home/globeebd/public_html/secretindex.php:0
+[04-Jul-2020 05:08:17 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:08:17 UTC] PHP Stack trace:
+[04-Jul-2020 05:08:17 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:08:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:08:17 UTC] PHP Stack trace:
+[04-Jul-2020 05:08:17 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:08:22 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:08:22 UTC] PHP Stack trace:
+[04-Jul-2020 05:08:22 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:08:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:08:22 UTC] PHP Stack trace:
+[04-Jul-2020 05:08:22 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:08:46 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:08:46 UTC] PHP Stack trace:
+[04-Jul-2020 05:08:46 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:08:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:08:46 UTC] PHP Stack trace:
+[04-Jul-2020 05:08:46 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:09:26 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:09:26 UTC] PHP Stack trace:
+[04-Jul-2020 05:09:26 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:09:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:09:26 UTC] PHP Stack trace:
+[04-Jul-2020 05:09:26 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:09:28 UTC] PHP Warning:  require_once(DBconnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:09:28 UTC] PHP Stack trace:
+[04-Jul-2020 05:09:28 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0
+[04-Jul-2020 05:09:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBconnection.php' (include_path='/home/globeebd/public_html/globev1.10/controller') in /home/globeebd/public_html/verysecretindex.php on line 5
+[04-Jul-2020 05:09:28 UTC] PHP Stack trace:
+[04-Jul-2020 05:09:28 UTC] PHP   1. {main}() /home/globeebd/public_html/verysecretindex.php:0

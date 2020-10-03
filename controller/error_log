@@ -1,0 +1,12 @@
+[28-Jun-2020 16:07:22 UTC] PHP Warning:  require_once(DbConnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/controller/product_upload.php on line 3
+[28-Jun-2020 16:07:22 UTC] PHP Stack trace:
+[28-Jun-2020 16:07:22 UTC] PHP   1. {main}() /home/globeebd/public_html/controller/product_upload.php:0
+[28-Jun-2020 16:07:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'DbConnection.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/globeebd/public_html/controller/product_upload.php on line 3
+[28-Jun-2020 16:07:22 UTC] PHP Stack trace:
+[28-Jun-2020 16:07:22 UTC] PHP   1. {main}() /home/globeebd/public_html/controller/product_upload.php:0
+[28-Jun-2020 16:10:09 UTC] PHP Warning:  require_once(DbConnection.php): failed to open stream: No such file or directory in /home/globeebd/public_html/controller/product_upload.php on line 3
+[28-Jun-2020 16:10:09 UTC] PHP Stack trace:
+[28-Jun-2020 16:10:09 UTC] PHP   1. {main}() /home/globeebd/public_html/controller/product_upload.php:0
+[28-Jun-2020 16:10:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'DbConnection.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/globeebd/public_html/controller/product_upload.php on line 3
+[28-Jun-2020 16:10:09 UTC] PHP Stack trace:
+[28-Jun-2020 16:10:09 UTC] PHP   1. {main}() /home/globeebd/public_html/controller/product_upload.php:0
